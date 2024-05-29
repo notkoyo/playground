@@ -4,10 +4,10 @@ This repository serves as a sandbox for me to explore and experiment with variou
 ## Purpose
 The primary purpose of this repository is to:
 
-Test out new programming languages.
-Experiment with different frameworks and libraries.
-Prototype and validate new ideas.
-Practice coding and improve my skills.
+- Test out new programming languages.
+- Experiment with different frameworks and libraries.
+- Prototype and validate new ideas.
+- Practice coding and improve my skills.
 
 ## Contents
 You'll find various folders and files, each named to reflect the specific language or technology being tested. Examples include:
