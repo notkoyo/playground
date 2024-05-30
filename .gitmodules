@@ -1,0 +1,3 @@
+[submodule "go/goapi"]
+	path = go/goapi
+	url = https://github.com/avukadin/goapi
