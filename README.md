@@ -13,6 +13,7 @@ The primary purpose of this repository is to:
 You'll find various folders and files, each named to reflect the specific language or technology being tested. Examples include:
 
 - go/ - Snippets and projects written in Golang.
+- twitch/ - Snippets for twitch commands
 - typescript/ - Code snippets and applications using TypeScript.
 
 ## Usage
